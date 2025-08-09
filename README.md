@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=e91e63"/>
 
 <br>
 
@@ -11,7 +11,7 @@
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffrancielemedino&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffrancielemedino&s=21&c=e91e63&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
       
 <br>
@@ -29,7 +29,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=e91e63&width=900&size=22&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -49,7 +49,7 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=franciele&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=franciele&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka&title_color=e91e63&icon_color=e91e63"
   />
   <img
     height=165
@@ -100,19 +100,8 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:franciele2@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=e91e63)](mailto:franciele2@gmail.com)
 
-</div>
-
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/franciele">rentry</a> ⊹
-        <a href="https://linktr.ee/francielevm1">linktr.ee</a> ⊹
-        <a href="https://byfrancielevm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
 </div>
 
 <br>
@@ -121,7 +110,8 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e91e63&height=100&section=footer"/>
+
 
 
 <picture align="center">
