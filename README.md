@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=e91e63"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=f48fb1"/>
 
 <br>
 
@@ -11,7 +11,7 @@
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffrancielemedino&s=21&c=e91e63&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffrancielemedino&s=21&c=f48fb1&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
       
 <br>
@@ -29,7 +29,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=e91e63&width=900&size=22&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f48fb1&width=900&size=22&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -49,7 +49,7 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=franciele&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka&title_color=e91e63&icon_color=e91e63"
+    src="https://github-readme-stats.vercel.app/api/?username=franciele&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka&title_color=f48fb1&icon_color=f48fb1"
   />
   <img
     height=165
@@ -61,7 +61,7 @@
   <br>
   <img
     align="center"
-    alt="Top Language"
+    alt="Profile Details"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franciele&theme=midnight_purple"
   />
   <br>
@@ -69,7 +69,7 @@
   <img
     height=154
     align="center"
-    alt="Top Language"
+    alt="GitHub Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=franciele&theme=midnight-purple&card_width=885"
   />
   </div>
@@ -100,7 +100,13 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=e91e63)](mailto:franciele2@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=f48fb1)](mailto:franciele2@gmail.com)
+  &nbsp;&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=f48fb1)](https://www.linkedin.com/in/francielemedino/)
+  &nbsp;&nbsp;
+  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=f48fb1)](https://www.instagram.com/francielemedino/)
+  &nbsp;&nbsp;
+  [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=f48fb1)](https://twitter.com/francielemedino)
 
 </div>
 
@@ -110,7 +116,8 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e91e63&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f48fb1&height=100&section=footer"/>
+
 
 
 
