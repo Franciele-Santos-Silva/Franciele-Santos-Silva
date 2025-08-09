@@ -5,13 +5,11 @@
 <div align="center">
   
   <b>プログラマ</b>
+  
   <samp>
       <br>
       Hello world! I'm <b>Franciele Santos Silva</b>
   </samp>
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;;Be+welcome!" alt="Typing SVG"/>
-</div>
   
 </div>
 <div align="center">
