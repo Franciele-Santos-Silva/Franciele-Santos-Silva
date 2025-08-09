@@ -7,7 +7,7 @@
   <b>`プログラマ`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Franciele Santos Silva</b>
+      Hello world! I'm <b>Franciele Santos Silva</b>
   </samp>
 </div>
 <div align="center">
