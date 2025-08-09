@@ -29,7 +29,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -49,20 +49,20 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=francielemedino&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=franciele&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=francielemedino&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciele&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=francielemedino&theme=midnight_purple"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franciele&theme=midnight_purple"
   />
   <br>
   <br>
@@ -70,7 +70,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=francielemedino&theme=midnight-purple&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=franciele&theme=midnight-purple&card_width=885"
   />
   </div>
 
@@ -112,7 +112,7 @@
 <div align="center">
   <p align="center">
       <samp>
-        ♡ <a href="https://rentry.co/francielemedino">rentry</a> ⊹
+        ♡ <a href="https://rentry.co/franciele">rentry</a> ⊹
         <a href="https://linktr.ee/francielevm1">linktr.ee</a> ⊹
         <a href="https://byfrancielevm.carrd.co/">carrd.co</a> ⊹
         <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
