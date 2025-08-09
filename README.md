@@ -1,18 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=e91e63"/>
 
 <br>
 
 <div align="center">
-   
-   <b>プログラマ</b>
   
+  <b>プログラマ</b>
   <samp>
-   <br> Hello world! I'm <b>Franciele Santos Silva</b>
- </samp>
-  
+      <br>
+      Hello world! I'm <b>Franciele Santos Silva</b>
+  </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffrancielemedino&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffrancielemedino&s=21&c=e91e63&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
       
 <br>
@@ -29,10 +28,9 @@
 <br>
 <br>
 
-<samp>
-      <br>
-      Hello world! I'm <b>Franciele Santos Silva</b>
-  </samp>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=e91e63&width=900&size=22&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;;Be+welcome!" alt="Typing SVG"/>
+</div>
 
 <br>
 <br>
