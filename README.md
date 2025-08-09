@@ -9,6 +9,10 @@
       <br>
       Hello world! I'm <b>Franciele Santos Silva</b>
   </samp>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;;Be+welcome!" alt="Typing SVG"/>
+</div>
+  
 </div>
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffrancielemedino&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
@@ -28,9 +32,10 @@
 <br>
 <br>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;;Be+welcome!" alt="Typing SVG"/>
-</div>
+<samp>
+      <br>
+      Hello world! I'm <b>Franciele Santos Silva</b>
+  </samp>
 
 <br>
 <br>
