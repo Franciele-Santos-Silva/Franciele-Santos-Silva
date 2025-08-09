@@ -3,8 +3,7 @@
 <br>
 
 <div align="center">
-  
-  <b>プログラマ</b>
+   <b>プログラマ</b>
   
   <samp>
       <br>
