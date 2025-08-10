@@ -65,7 +65,7 @@
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=midnight_purple"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franciele&theme=midnight_purple"
   />
   <br>
   <br>
@@ -73,7 +73,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=midnight-purple&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=franciele&theme=midnight-purple&card_width=885"
   />
   </div>
 
