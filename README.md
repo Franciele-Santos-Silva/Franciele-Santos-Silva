@@ -28,8 +28,7 @@
 <br>
       
 <div align="center">
-  <img src="![undefined - Imgur](https://github.com/user-attachments/assets/2299af0c-1ef7-4b0f-aa02-c46f9af4b7db)
-" width="200">
+  <img src="https://imgur.com/hmD0KIs.png" width="200">
 </div>
 <br>
 <div align="center">
