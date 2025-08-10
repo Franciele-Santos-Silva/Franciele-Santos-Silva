@@ -28,7 +28,7 @@
 <br>
       
 <div align="center">
-  <img src=![GIF de sono](https://media.giphy.com/media/RTIGQQZwkGy9q/giphy.gif)
+  <img src="![GIF de sono](https://media.giphy.com/media/RTIGQQZwkGy9q/giphy.gif)"
  width="300">
 </div>
 <br>
