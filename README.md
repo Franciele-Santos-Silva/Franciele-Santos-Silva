@@ -15,9 +15,9 @@
       Hello world! I'm <b>Franciele Santos Silva</b>
       <br>
       <br>
-      Passionate about technology and programming. Currently studying Analysis and Systems Development, 
+      I'm a developer focused on Backend and Artificial Intelligence, always seeking to create afficient and innovative solutions. 
       <br>
-      with focus on web development and creative solutions. Always learning and expanding my skills!
+      I currently study backend development and AI, with basic knowledge in frontend, and I am constantly evolving to trasform learning into real projects.
   </samp>
 </div>
 <div align="center">
