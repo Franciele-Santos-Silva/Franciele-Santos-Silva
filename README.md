@@ -28,7 +28,7 @@
 <br>
       
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/c1/f4/5f/c1f45f1978fc7ad515497a5c64605d7f.jpg" width="300">
+  <img src="https://i.pinimg.com/736x/c3/4e/45/c34e4598640d5e740d958c71f2518667.jpg" width="300">
 </div>
 <br>
 <div align="center">
