@@ -3,11 +3,21 @@
 <br>
 
 <div align="center">
+  <div align="center" width="100%">
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;;Be+welcome!" alt="Typing SVG"/>
+  </div>
+  
+  <br>
   
   <b>プログラマ</b>
   <samp>
       <br>
       Hello world! I'm <b>Franciele Santos Silva</b>
+      <br>
+      <br>
+      Passionate about technology and programming. Currently studying Analysis and Systems Development, 
+      <br>
+      with focus on web development and creative solutions. Always learning and expanding my skills!
   </samp>
 </div>
 <div align="center">
@@ -23,13 +33,6 @@
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/franciele_♡-black" />
-</div>
-
-<br>
-<br>
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -131,14 +134,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Franciele-Santos-Silva/Franciele-Santos-Silva/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Franciele-Santos-Silva/Franciele-Santos-Silva/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-
- 
-
-
-
-
-
-
