@@ -4,7 +4,7 @@
 
 <div align="center">
   <div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+a+student+of+Analysis+and+Systems+Development;;Be+welcome!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+Franciele+Santos+da+Silva;;Be+welcome!" alt="Typing SVG"/>
   </div>
   
   <br>
@@ -12,7 +12,7 @@
   <b>プログラマ</b>
   <samp>
       <br>
-      Hello world! I'm <b>Franciele Santos Silva</b>
+      Hello world! I'm <b> a student of Systems Analysis and Development.</b>
       <br>
       <br>
       I'm a developer focused on Backend and Artificial Intelligence, always seeking to create afficient and innovative solutions. 
