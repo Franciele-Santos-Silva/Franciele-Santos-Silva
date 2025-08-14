@@ -68,6 +68,13 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Franciele-Santos-Silva&theme=midnight_purple"
   />
  <br>
+   <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=midnight-purple&card_width=885"
+  />
   <br>
   <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
