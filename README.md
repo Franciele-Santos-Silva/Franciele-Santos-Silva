@@ -126,10 +126,10 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
 
-<picture align="center">
+<picture style="display: block; margin: 0 auto;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Franciele-Santos-Silva/Franciele-Santos-Silva/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Franciele-Santos-Silva/Franciele-Santos-Silva/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Franciele-Santos-Silva/Franciele-Santos-Silva/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Franciele-Santos-Silva/Franciele-Santos-Silva/output/github-contribution-grid-snake-light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Franciele-Santos-Silva/Franciele-Santos-Silva/output/github-contribution-grid-snake.svg">
 </picture>
