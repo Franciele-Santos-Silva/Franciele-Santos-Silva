@@ -77,7 +77,7 @@
   />
   <br>
   <div align="center" style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,nodejs,python,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,nodejs,python,mysql,git,github,vscode,figma,java" />
   </div>
 <br>
 
