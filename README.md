@@ -27,7 +27,6 @@
 <br>
 <br>
 
-<!-- GIF do gatinho substituindo a lua -->
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="300">
 </div>
