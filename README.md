@@ -3,10 +3,9 @@
 <br>
 
 <div align="center">
-  <!-- <div align="center" width="100%">
+   <div align="center" width="100%">
     <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+Franciele+Santos+da+Silva;;Be+welcome!" alt="Typing SVG"/>
-  </div> -->
-  
+  </div>   
   <br>
   
   <b>プログラマ</b>
