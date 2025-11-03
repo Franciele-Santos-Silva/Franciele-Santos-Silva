@@ -98,8 +98,9 @@
   <br>
   
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:franciellysantos876@gmail.com)
+  [![Whatsapp](https://img.shields.io/badge/Whatsapp-000?style=for-the-badge&logo=Whatsapp&logoColor=9745f5)](https://wa.me/5599985523597)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=9745f5)](https://www.linkedin.com/in/franciele-santos-da-silva-998353334/)
   [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=9745f5)](https://discord.gg/Uvcswbx8)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/franciele-santos-da-silva-998353334/)
   
 </div>
 
