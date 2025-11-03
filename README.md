@@ -20,9 +20,9 @@
   </samp>
   
  </div>
-<div align="center">
+<!-- <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffrancielemedino&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>  
+</div>   -->
 
 <br>
 <br>
