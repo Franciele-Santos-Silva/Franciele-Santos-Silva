@@ -78,8 +78,8 @@
   <br>
   <div align="center" style="display: inline_block"><br>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,nodejs,python,dart,flutter,mysql,supabase,docker,git,github,figma,vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="45" style="margin: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="45" style="margin: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="45" style="margin: 1px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="45" style="margin: 1px;">
   </div>
   </div>
 <br>
