@@ -147,7 +147,6 @@
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
       <img src="https://skillicons.dev/icons?i=ubuntu" width="70" />
       <img src="https://skillicons.dev/icons?i=vscode" width="70" />
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" width="70" />
       <img src="https://skillicons.dev/icons?i=docker" width="70" />
       <img src="https://skillicons.dev/icons?i=figma" width="70" />
       <img src="https://skillicons.dev/icons?i=blender" width="70" />
