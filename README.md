@@ -149,6 +149,7 @@
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" width="70" />
       <img src="https://skillicons.dev/icons?i=docker" width="70" />
       <img src="https://skillicons.dev/icons?i=figma" width="70" />
+      <img src="https://skillicons.dev/icons?i=blender" width="70" />
       <img src="https://skillicons.dev/icons?i=git" width="70" />
       <img src="https://skillicons.dev/icons?i=github" width="70" />
     </div>
