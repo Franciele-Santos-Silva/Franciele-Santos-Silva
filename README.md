@@ -117,8 +117,8 @@
     <summary><b>Backend Services</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-      <img src="https://skillicons.dev/icons?i=supabase" width="100" />
-      <img src="https://skillicons.dev/icons?i=firebase" width="100" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="70" />
+      <img src="https://skillicons.dev/icons?i=firebase" width="70" />
     </div>
     <br>
   </details>
@@ -128,8 +128,8 @@
     <summary><b>AI & Machine Learning</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="100" />
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="100" />
+      <img src="https://skillicons.dev/icons?i=pytorch" width="70" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="70" />
     </div>
     <br>
   </details>
@@ -139,13 +139,13 @@
     <summary><b>DevOps & Tools</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-      <img src="https://skillicons.dev/icons?i=ubuntu" width="100" />
-      <img src="https://skillicons.dev/icons?i=vscode" width="100" />
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" width="100" />
-      <img src="https://skillicons.dev/icons?i=docker" width="100" />
-      <img src="https://skillicons.dev/icons?i=figma" width="100" />
-      <img src="https://skillicons.dev/icons?i=git" width="100" />
-      <img src="https://skillicons.dev/icons?i=github" width="100" />
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="70" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="70" />
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" width="70" />
+      <img src="https://skillicons.dev/icons?i=docker" width="70" />
+      <img src="https://skillicons.dev/icons?i=figma" width="70" />
+      <img src="https://skillicons.dev/icons?i=git" width="70" />
+      <img src="https://skillicons.dev/icons?i=github" width="70" />
     </div>
     <br>
   </details>
