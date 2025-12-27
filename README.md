@@ -106,9 +106,10 @@
     <summary><b>Databases</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="70" />
       <img src="https://skillicons.dev/icons?i=mysql" width="70" />
       <img src="https://skillicons.dev/icons?i=sqlite" width="70" />
+      <img src="https://skillicons.dev/icons?i=postgresql" width="70" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="70" />
     </div>
     <br>
   </details>
