@@ -80,7 +80,7 @@
  <h2 align="center" id="tech-stack">
   <img src="https://img.shields.io/badge/My%20Tech%20Stack♡-black?style=for-the-badge" />
 </h2>
-  <details open>
+  <details close>
     <summary><b>Frontend Development</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
@@ -88,8 +88,8 @@
       <img src="https://skillicons.dev/icons?i=css" width="100" />
       <img src="https://skillicons.dev/icons?i=bootstrap" width="100" />
       <img src="https://skillicons.dev/icons?i=javascript" width="100" />
-      <img src="https://skillicons.dev/icons?i=react" width="100" />
-      <img src="https://skillicons.dev/icons?i=nextjs" width="100" />
+      <img src="https://skillicons.dev/icons?i=dart" width="100" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="100" />
       <img src="https://skillicons.dev/icons?i=materialui" width="100" />
     </div>
     <br>
@@ -98,14 +98,14 @@
   <br>
 
 
-   <details open>
+   <details close>
     <summary><b>Backend Development & Databases</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
       <img src="https://skillicons.dev/icons?i=nodejs" width="100" />
-      <img src="https://skillicons.dev/icons?i=php" width="100" />
+      <img src="https://skillicons.dev/icons?i=java" width="100" />
       <img src="https://skillicons.dev/icons?i=python" width="100" />
-      <img src="https://skillicons.dev/icons?i=go" width="100" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="100" />
       <img src="https://skillicons.dev/icons?i=mongodb" width="100" />
       <img src="https://skillicons.dev/icons?i=mysql" width="100" />
     </div>
@@ -116,7 +116,7 @@
 
 
 
-  <details open>
+  <details close>
     <summary><b>AI & Machine Learning</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
@@ -129,7 +129,7 @@
   <br>
 
 
-   <details open>
+   <details close>
     <summary><b>DevOps & Tools</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
