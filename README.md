@@ -124,8 +124,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Franciele-Santos-Silva/Franciele-Santos-Silva/output/github-contribution-grid-snake.svg">
 </picture>
 
- <h1 align="center">
-  <img src="https://img.shields.io/badge/Profile%20View%20♡-black?style=for-the-badge" />
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Profile%20View%20♡-9745f5?style=for-the-badge" />
 </h1>
 
 <div align="center">
