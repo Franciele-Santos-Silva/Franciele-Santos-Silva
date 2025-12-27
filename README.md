@@ -73,7 +73,6 @@
   />
   <br>
    
- <!-- Tech Stack -->
  <h2 align="center" id="tech-stack">
   <img src="https://img.shields.io/badge/My%20Tech%20Stack♡-black?style=for-the-badge" />
 </h2>
@@ -89,7 +88,6 @@
       <img src="https://skillicons.dev/icons?i=flutter" width="100" />
     </div>
     <br>
-    <!-- <p>Designing sleek, responsive user interfaces with HTML, CSS, Bootstrap, JavaScript, React, Next.js, and Material UI.</p> -->
   </details>
   <br>
 
@@ -101,7 +99,6 @@
       <img src="https://skillicons.dev/icons?i=python" width="100" />
     </div>
     <br>
-    <!-- <p>Building robust server-side solutions with Node.js, PHP,Go, and Python, integrated with MongoDB and MySQL for efficient data management.</p> -->
   </details>
   <br>
 
@@ -113,7 +110,6 @@
       <img src="https://skillicons.dev/icons?i=mysql" width="100" />
     </div>
     <br>
-    <!-- <p>Building robust server-side solutions with Node.js, PHP,Go, and Python, integrated with MongoDB and MySQL for efficient data management.</p> -->
   </details>
   <br>
 
@@ -125,7 +121,6 @@
       <img src="https://skillicons.dev/icons?i=firebase" width="100" />
     </div>
     <br>
-    <!-- <p>Building robust server-side solutions with Node.js, PHP,Go, and Python, integrated with MongoDB and MySQL for efficient data management.</p> -->
   </details>
   <br>
 
@@ -137,12 +132,10 @@
       <img src="https://skillicons.dev/icons?i=tensorflow" width="100" />
     </div>
     <br>
-    <!-- <p>Harnessing the power of AI with PyTorch and TensorFlow to develop intelligent, data-driven applications.</p> -->
   </details>
   <br>
 
-
-   <details close>
+  <details close>
     <summary><b>DevOps & Tools</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
@@ -155,7 +148,6 @@
       <img src="https://skillicons.dev/icons?i=github" width="100" />
     </div>
     <br>
-    <!-- <p>Streamlining development workflows with Linux, Ubuntu, Git, Docker, Bash, and PowerShell.</p> -->
   </details>
   <br>
 
