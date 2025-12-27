@@ -98,6 +98,7 @@
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
       <img src="https://skillicons.dev/icons?i=nodejs" width="70" />
       <img src="https://skillicons.dev/icons?i=express" width="70" />
+      <img src="https://skillicons.dev/icons?i=sequelize" width="70" />
       <img src="https://skillicons.dev/icons?i=python" width="70" />
       <img src="https://skillicons.dev/icons?i=fastapi" width="70" />
     </div>
