@@ -95,7 +95,7 @@
     <summary><b>Backend Development</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="100" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="80" />
       <img src="https://skillicons.dev/icons?i=python" width="100" />
     </div>
     <br>
