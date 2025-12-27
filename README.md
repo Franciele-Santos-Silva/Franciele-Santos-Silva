@@ -80,12 +80,12 @@
     <summary><b>Frontend Development</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-      <img src="https://skillicons.dev/icons?i=html" width="100" />
-      <img src="https://skillicons.dev/icons?i=css" width="100" />
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="100" />
-      <img src="https://skillicons.dev/icons?i=javascript" width="100" />
-      <img src="https://skillicons.dev/icons?i=dart" width="100" />
-      <img src="https://skillicons.dev/icons?i=flutter" width="100" />
+      <img src="https://skillicons.dev/icons?i=html" width="70" />
+      <img src="https://skillicons.dev/icons?i=css" width="70" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="70" />
+      <img src="https://skillicons.dev/icons?i=javascript" width="70" />
+      <img src="https://skillicons.dev/icons?i=dart" width="70" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="70" />
     </div>
     <br>
   </details>
@@ -96,7 +96,7 @@
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
       <img src="https://skillicons.dev/icons?i=nodejs" width="70" />
-      <img src="https://skillicons.dev/icons?i=python" width="100" />
+      <img src="https://skillicons.dev/icons?i=python" width="70" />
     </div>
     <br>
   </details>
@@ -106,8 +106,8 @@
     <summary><b>Databases</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="100" />
-      <img src="https://skillicons.dev/icons?i=mysql" width="100" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="70" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="70" />
     </div>
     <br>
   </details>
