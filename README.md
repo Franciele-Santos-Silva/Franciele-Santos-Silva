@@ -125,7 +125,7 @@
 </picture>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Profile%20View%20♡-9745f5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Profile%20View%20♡-black?style=for-the-badge&color=9745f5" />
 </h1>
 
 <div align="center">
