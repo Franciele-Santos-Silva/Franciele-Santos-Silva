@@ -72,15 +72,12 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=Franciele-Santos-Silva&theme=midnight-purple&card_width=885"
   />
   <br>
-  <!-- <div align="center" style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,nodejs,python,dart,flutter,mysql,supabase,mongodb,docker,git,github,figma,vscode,linux" /> </div> 
-    -->
-
+   
  <!-- Tech Stack -->
  <h2 align="center" id="tech-stack">
   <img src="https://img.shields.io/badge/My%20Tech%20Stack♡-black?style=for-the-badge" />
 </h2>
-  <details close>
+ <details close>
     <summary><b>Frontend Development</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
@@ -90,22 +87,28 @@
       <img src="https://skillicons.dev/icons?i=javascript" width="100" />
       <img src="https://skillicons.dev/icons?i=dart" width="100" />
       <img src="https://skillicons.dev/icons?i=flutter" width="100" />
-      <img src="https://skillicons.dev/icons?i=materialui" width="100" />
     </div>
     <br>
     <!-- <p>Designing sleek, responsive user interfaces with HTML, CSS, Bootstrap, JavaScript, React, Next.js, and Material UI.</p> -->
   </details>
   <br>
 
-
-   <details close>
-    <summary><b>Backend Development & Databases</b></summary>
+ <details close>
+    <summary><b>Backend Development</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
       <img src="https://skillicons.dev/icons?i=nodejs" width="100" />
-      <img src="https://skillicons.dev/icons?i=java" width="100" />
       <img src="https://skillicons.dev/icons?i=python" width="100" />
-      <img src="https://skillicons.dev/icons?i=supabase" width="100" />
+    </div>
+    <br>
+    <!-- <p>Building robust server-side solutions with Node.js, PHP,Go, and Python, integrated with MongoDB and MySQL for efficient data management.</p> -->
+  </details>
+  <br>
+
+ <details close>
+    <summary><b>Databases</b></summary>
+    <br>
+    <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
       <img src="https://skillicons.dev/icons?i=mongodb" width="100" />
       <img src="https://skillicons.dev/icons?i=mysql" width="100" />
     </div>
@@ -114,9 +117,19 @@
   </details>
   <br>
 
+ <details close>
+    <summary><b>Backend Services</b></summary>
+    <br>
+    <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+      <img src="https://skillicons.dev/icons?i=supabase" width="100" />
+      <img src="https://skillicons.dev/icons?i=firebase" width="100" />
+    </div>
+    <br>
+    <!-- <p>Building robust server-side solutions with Node.js, PHP,Go, and Python, integrated with MongoDB and MySQL for efficient data management.</p> -->
+  </details>
+  <br>
 
-
-  <details close>
+ <details close>
     <summary><b>AI & Machine Learning</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
@@ -133,12 +146,13 @@
     <summary><b>DevOps & Tools</b></summary>
     <br>
     <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-      <img src="https://skillicons.dev/icons?i=linux" width="100" />
       <img src="https://skillicons.dev/icons?i=ubuntu" width="100" />
-      <img src="https://skillicons.dev/icons?i=git" width="100" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="100" />
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" width="100" />
       <img src="https://skillicons.dev/icons?i=docker" width="100" />
-      <img src="https://skillicons.dev/icons?i=bash" width="100" />
-      <img src="https://skillicons.dev/icons?i=powershell" width="100" />
+      <img src="https://skillicons.dev/icons?i=figma" width="100" />
+      <img src="https://skillicons.dev/icons?i=git" width="100" />
+      <img src="https://skillicons.dev/icons?i=github" width="100" />
     </div>
     <br>
     <!-- <p>Streamlining development workflows with Linux, Ubuntu, Git, Docker, Bash, and PowerShell.</p> -->
