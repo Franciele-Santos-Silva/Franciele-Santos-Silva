@@ -84,7 +84,6 @@
       <img src="https://skillicons.dev/icons?i=css" width="70" />
       <img src="https://skillicons.dev/icons?i=bootstrap" width="70" />
       <img src="https://skillicons.dev/icons?i=javascript" width="70" />
-      <img src="https://skillicons.dev/icons?i=tailwindcss" width="70" />
       <img src="https://skillicons.dev/icons?i=dart" width="70" />
       <img src="https://skillicons.dev/icons?i=flutter" width="70" />
     </div>
