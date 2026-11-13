@@ -10,13 +10,13 @@
   
   <b>プログラマ</b>
   <samp>
-      <br>
-      Hello world! I'm <b> a student of Systems Analysis and Development.</b>
-      <br>
-      <br>
-      I'm a developer focused on Backend and Artificial Intelligence, always seeking to create afficient and innovative solutions. 
-      <br>
-      I currently study backend development and AI, with basic knowledge in frontend, and I am constantly evolving to trasform learning into real projects.
+    <br>
+Hello world! I'm <b>a Systems Analysis and Development graduate.</b>
+<br>
+<br>
+I'm a Full Stack Developer passionate about technology and software development, always seeking to improve my skills and build efficient solutions.
+<br>
+I work with both frontend and backend technologies, continuously learning, exploring new tools, and turning knowledge into practical projects.
   </samp>
   
  </div>
