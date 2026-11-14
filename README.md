@@ -11,7 +11,7 @@
   <b>プログラマ</b>
   <samp>
     <br>
-Helo world! I'm <b>a Systems Analysis and Development graduate.</b>
+Hello world! I'm <b>a Systems Analysis and Development graduate.</b>
 <br>
 <br>
 I'm a Full Stack Developer passionate about technology and software development, always seeking to improve my skills and build efficient solutions.
