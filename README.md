@@ -14,7 +14,7 @@
 Hello world! I'm <b>a Systems Analysis and Development graduate.</b>
 <br>
 <br>
-I'm a Ful Stack Developer passionate about technology and software development, always seeking to improve my skills and build efficient solutions.
+I'm a Full Stack Developer passionate about technology and software development, always seeking to improve my skills and build efficient solutions.
 <br>
 I work with both frontend and backend technologies, continuously learning, exploring new tools, and turning knowledge into practical projects.
   </samp>
